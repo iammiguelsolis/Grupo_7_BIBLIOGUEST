@@ -40,6 +40,7 @@ El sistema, denominado **BiblioGuest**, se desarrollará como una **aplicación 
 📁 BiblioGuest/
 │── 📄 README.md              → Documento principal del proyecto
 │── 📁 Entrega_Parcial_1/      → Perfil del proyecto, procesos, reglas, modelo conceptual y lógico
+│── 📁 Entrega_Parcial_2/      → Modelo físico, scripts, procedimientos y funciones
 ```
 ## 📌 Entregables
 
